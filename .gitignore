@@ -1,0 +1,4 @@
+__pycache__/
+cond_gpt/weights/
+*.pt
+~$*
